@@ -301,5 +301,7 @@ input[type="submit"]:active
 	.inputBox div{
 		font-size: .8em;
 	}
-	 
+	.inputBox input {
+		width: 50%;
+	}
 }
